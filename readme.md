@@ -12,6 +12,12 @@
 暂时没有时间去梳理每个方法发现背后的思想，纯粹是记录在平时编程中很少应用的点和疏漏。
 
 
+[tipsource](https://github.com/mumuy/blog/blob/gh-pages/fancybox/jquery.fancybox.js)
+
+### 2.isTouch		= document.createTouch !== undefined
+#### why use "use strict";
+
+
 
 
 
