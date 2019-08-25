@@ -1,0 +1,1 @@
+if (isSearchAnim) return;
