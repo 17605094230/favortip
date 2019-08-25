@@ -2,7 +2,7 @@
 > A javaScript Framework on top of program !
 
 
-## callback && callback()，jq方法的链式调用，startSearchAnim方法执行调用含义大于单纯的命令式操作，if (isSearchAnim) return;;
+### callback && callback()，jq方法的链式调用，startSearchAnim方法执行调用含义大于单纯的命令式操作，if (isSearchAnim) return;;
 
 ```batch
     
